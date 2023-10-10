@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://www.notion.so/9edb3854b3b3414b866e9e1366b16ee5?pvs=4">My Notion</a>
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=8woo4&show_icons=true&theme=radical)
