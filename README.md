@@ -32,10 +32,11 @@ Here are some ideas to get you started:
 <p>
   
 <a>**learning**</a>
+<p>
 <img src="https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/html5-black?style=flat-square&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=1572B6"/>
-  
+</p>  
 </p>
 
 
