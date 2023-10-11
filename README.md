@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=8woo4&show_icons=true&theme=radical)
 
-<a>%15**Daily visitant**%15</a>
+<a style=size, 20 >**Daily visitant**%15</a>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F8woo4&count_bg=%23F6003F&title_bg=%23B9B9B9&icon=&icon_color=%23000000&title=daily+visitant&edge_flat=false"/></a>
 <b>
