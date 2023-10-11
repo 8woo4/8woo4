@@ -1,6 +1,9 @@
-<a herf="https://www.notion.so/9edb3854b3b3414b866e9e1366b16ee5?pvs=4"><img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/9edb3854b3b3414b866e9e1366b16ee5?pvs=4"/></a>
+<a herf="https://www.notion.so/9edb3854b3b3414b866e9e1366b16ee5?pvs=4">
+<img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/9edb3854b3b3414b866e9e1366b16ee5?pvs=4"/>
+</a>
 <img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Notion&logoColor=white"/>
+<a href="https://www.notion.so/9edb3854b3b3414b866e9e1366b16ee5?pvs=4“><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.notion.so/9edb3854b3b3414b866e9e1366b16ee5?pvs=4"/></a>
 
 <!--
 **8woo4/8woo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
