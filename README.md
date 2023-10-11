@@ -1,4 +1,4 @@
-<a herf="https://www.notion.so/9edb3854b3b3414b866e9e1366b16ee5?pvs=4"><img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Notion&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/9edb3854b3b3414b866e9e1366b16ee5?pvs=4"/> 
 <img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Notion&logoColor=white"/>
 
