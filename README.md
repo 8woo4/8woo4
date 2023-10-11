@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p>
 
-<img src="https://img.shields.io/badge/javascript-3DDC84?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 
 </p>
 
