@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Jiho's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%208woo4's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <a href="https://www.notion.so/9edb3854b3b3414b866e9e1366b16ee5?pvs=4">My Notion</a>
 
