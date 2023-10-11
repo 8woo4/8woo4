@@ -9,7 +9,7 @@
 <p>
   📧 openup0102@naver.com
 </p>
-
+<br>
 <<!--개인페이지-->>
 <a>**My page**</a>
 
