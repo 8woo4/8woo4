@@ -1,9 +1,3 @@
-<a herf="https://www.notion.so/9edb3854b3b3414b866e9e1366b16ee5?pvs=4">
-<img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/9edb3854b3b3414b866e9e1366b16ee5?pvs=4"/>
-</a>
-<img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Notion&logoColor=white"/>
-
 
 <!--
 **8woo4/8woo4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +15,11 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20to%208woo4's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-
+<a>**My page**</a>
+<a href="https://www.notion.so/9edb3854b3b3414b866e9e1366b16ee5?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
+<a herf="https://www.notion.so/9edb3854b3b3414b866e9e1366b16ee5?pvs=4">
+<img src="https://img.shields.io/badge/Notion-3DDC84?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/9edb3854b3b3414b866e9e1366b16ee5?pvs=4"/>
+</a>
 
 
 
