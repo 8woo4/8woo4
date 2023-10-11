@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=%20%208woo4's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
+<a>**contact**</a>
+<p>
+  📧 openup0102@naver.com
+</p>
+
 <a>**My page**</a>
 
 <p>
